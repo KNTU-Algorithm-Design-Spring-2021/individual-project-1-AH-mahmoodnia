@@ -1,5 +1,4 @@
 from math import sqrt
-import closest_pair_2D
 
 
 def distance(p1, p2):
